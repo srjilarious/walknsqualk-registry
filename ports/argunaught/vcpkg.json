@@ -1,0 +1,6 @@
+{
+  "name": "argunaught",
+  "version": "1.2.0",
+  "description": "A zero-dependency C++17 argument parser with many nifty features, such as command support and sub parser support.",
+  "homepage": "https://github.com/srjilarious/argunaught"
+}
